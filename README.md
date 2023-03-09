@@ -1,6 +1,7 @@
 # mqtt_recebe_t2
 
-A new Flutter project.
+Este projeto é um aplicativo que se conecta a um brocker MQTT , recebe informação e mostra na tela.
+A ideia é ser um aplicativo para mostrar a temperatura vindo de uma placa Arduino Nano RP2040.
 
 ## Getting Started
 
